@@ -1,6 +1,1 @@
-<svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Headline logo</title>
-  <desc id="desc">A black banner with bold red Headline text.</desc>
-  <rect width="500" height="140" fill="#000000"/>
-  <text x="250" y="72" text-anchor="middle" dominant-baseline="middle" font-size="56" font-weight="700" font-family="Courier New, Courier, monospace" letter-spacing="1" fill="#ff3b30">Headline</text>
-</svg>
+
