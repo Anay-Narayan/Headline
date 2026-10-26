@@ -8,7 +8,13 @@
 
 Headline is a lightweight news dashboard and claim-checking web app built with plain HTML, CSS, and JavaScript. It brings together top stories from multiple news feeds, highlights current events in a clean card layout, and lets users quickly test whether a headline or claim is being reported elsewhere.
 
-Designed with a playful retro aesthetic, Headline includes a “Beaky the seagull” companion, voice narration, and a simple interface for anyone wanting a fast digest of current events.
+Designed with a playful retro aesthetic, Headline includes a "Beaky the seagull" companion, voice narration, and a simple interface for anyone wanting a fast digest of current events.
+
+## Screenshot
+
+<p align="center">
+  <img src="assets/headline-ui.png" alt="Headline app interface" width="1000" />
+</p>
 
 ## Features
 
@@ -59,6 +65,8 @@ http://localhost:8000
 ```text
 Headline/
 ├── index.html
+├── assets/
+│   └── headline-ui.png
 ├── README.md
 └── LICENSE
 ```
