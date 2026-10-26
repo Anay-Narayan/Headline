@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License: Apache 2.0" />
 </p>
 
-Headline is a lightweight news dashboard and claim-checking web app built with plain HTML, CSS, and JavaScript. It brings together top stories from multiple news feeds, highlights current events in a clean card layout, and lets users quickly test whether a headline or claim is being reported elsewhere.
+Headline is a lightweight news dashboard and claim-checking web app built with plain HTML, CSS, and JavaScript. It brings together top stories from multiple news feeds, highlights current events in a friendly, digestible format, and lets users quickly check whether a claim matches the coverage they're seeing.
 
 Designed with a playful retro aesthetic, Headline includes a "Beaky the seagull" companion, voice narration, and a simple interface for anyone wanting a fast digest of current events.
 
 ## Screenshot
 
 <p align="center">
-  <img src="assets/headline-ui.png" alt="Headline app interface" width="1000" />
+  <img src="assets/headline-ui.svg" alt="Headline app interface" width="1000" />
 </p>
 
 ## Features
@@ -40,9 +40,9 @@ Designed with a playful retro aesthetic, Headline includes a "Beaky the seagull"
 
 ## How it works
 
-The app fetches a set of curated RSS feeds, filters and ranks the newest stories, and displays the most relevant current headlines in a card-based layout. Each story includes a short summary, the outlet name, and a link to the original article.
+The app fetches a set of curated RSS feeds, filters and ranks the newest stories, and displays the most relevant current headlines in a card-based layout. Each story includes a short summary, the source outlet, and a direct link to the full article.
 
-Users can also enter a topic or headline in the search field to compare it against the current coverage. The app tries to find related articles and optionally uses AI to provide a quick, plain-language verdict based on the matching sources.
+Users can also enter a topic or headline in the search field to compare it against the current coverage. The app tries to find related articles and optionally uses AI to provide a quick, plain-language verdict that explains whether the claim appears well supported by the available sources.
 
 ## Local usage
 
@@ -66,9 +66,9 @@ http://localhost:8000
 Headline/
 ├── index.html
 ├── assets/
-│   └── headline-ui.png
+│   └── headline-ui.svg
 ├── README.md
-└── LICENSE
+├── LICENSE
 ```
 
 ## License
