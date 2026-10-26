@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Headline logo</title>
+  <desc id="desc">A retro-inspired logo reading Headline with a bold red-orange pixel style.</desc>
+  <rect width="900" height="260" fill="#efefef"/>
+  <rect x="18" y="18" width="864" height="224" fill="#f8f8f8" stroke="#1a1a1a" stroke-width="10"/>
+  <rect x="40" y="40" width="820" height="180" fill="#f8f8f8" stroke="#1a1a1a" stroke-width="8"/>
+  <text x="450" y="165"
+        text-anchor="middle"
+        fill="#ff5a36"
+        stroke="#1a1a1a"
+        stroke-width="8"
+        paint-order="stroke"
+        font-size="118"
+        font-weight="900"
+        font-family="'Courier New', 'Lucida Console', monospace"
+        letter-spacing="2">Headline</text>
+</svg>
